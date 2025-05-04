@@ -1,1 +1,3 @@
 # Hack-The-Feed
+
+## The purpose of this project is to understand the interactions of our business with customers online: how we have engaged with customers through different social media platforms namely Facebook, LInkedIn, Instagram and Twitter. The insights we derive from this will inform a better approach to reaching customers in the future with the type of content they like. If customers see the type of content they like, they remain happy and engaged with us. Happy and engaged customers equate to more profit, so we want to understand the best way to keep our customers engaged with us through their favorite contents.
